@@ -24,4 +24,5 @@ def now_serving(line_arr)
     puts "Currently serving #{line_arr[0]}."
     line_arr.shift
   end
+
 end
